@@ -1,0 +1,12 @@
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\Syntage.Framework.dll
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\Syntage.Framework.pdb
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\CannedBytes.Midi.Message.dll
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\Jacobi.Vst.Core.dll
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\Jacobi.Vst.Framework.dll
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\Jacobi.Vst.Interop.dll
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\Jacobi.Vst.Core.xml
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\Jacobi.Vst.Framework.xml
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\bin\Release\Jacobi.Vst.Interop.xml
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\obj\Release\Syntage.Framework.csprojResolveAssemblyReference.cache
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\obj\Release\Syntage.Framework.dll
+C:\Users\spaceinvader\Desktop\Work\Synth\Syntage.Framework\obj\Release\Syntage.Framework.pdb
